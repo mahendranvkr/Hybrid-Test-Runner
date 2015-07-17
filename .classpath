@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-firefox-driver-2.0a5.jar"/>
+	<classpathentry kind="lib" path="C:/hybrid/QAAutomation/lib/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
